@@ -1,0 +1,7 @@
+spring:
+  batch:
+    job:
+      enabled: true
+
+zerobase:
+  address: '서울시 강남구'
